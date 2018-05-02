@@ -14,7 +14,6 @@
   },
   "homepage": "https://github.com/machinomy/types-truffle-config#readme",
   "dependencies": {
-    "@machinomy/types-truffle-artifactor": "https://github.com/machinomy/types-truffle-artifactor",
-    "@machinomy/types-truffle-config": "https://github.com/machinomy/types-truffle-config"
+    "@machinomy/types-truffle-artifactor": "^0.0.1"
   }
 }
